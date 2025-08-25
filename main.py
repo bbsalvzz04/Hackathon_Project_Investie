@@ -202,7 +202,7 @@ elif st.session_state.username not in non_investors["Username"].values:
         display_tracker(user_data)
 
 
-    if username == "ana456" and not st.session_state.monthly_nudge:
+    if username == "carlos456" and not st.session_state.monthly_nudge:
         monthly_nudge_msg = agent_executor2.invoke({
             "input": "Generate this month's nudge", 
             "customer_info_str": customer_info_str
