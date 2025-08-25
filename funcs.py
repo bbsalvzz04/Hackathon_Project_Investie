@@ -4,7 +4,7 @@ import pandas as pd
 from css import apply_background_with_chatbtn_css
 import altair as alt
 
-
+#-------------------------------------------------------------------
 
 
 def toggle_chat():
