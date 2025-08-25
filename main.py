@@ -135,7 +135,7 @@ if not st.session_state.logged_in:
 
 # --- After login display type (1): Non-investors Homepage ---
 elif not st.session_state.application_started and st.session_state.username in non_investors["Username"].values:
-    bg_img = get_encoded_bg("BPIhome_noninvestor.png")
+    bg_img = get_encoded_bg("BPIhome_noninvestor2.png")
     if apply_BPIapp_background_css(bg_img):
         st.session_state.application_started = True
 
