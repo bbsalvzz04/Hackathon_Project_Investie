@@ -45,10 +45,10 @@ pip install -r requirements.txt
 
 ### 4️⃣ Setup Environment Variables
 
-Create a **`.env` file** in the project root (see `.env.example`). Example:
+Create a **`.env` file** in the project root. Example:
 
 ```
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY="your_api_key_here"
 ```
 
 ---
