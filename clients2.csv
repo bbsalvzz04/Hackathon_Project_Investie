@@ -1,0 +1,13 @@
+Username,Customer_ID,Full_Name,Age,Gender,Marital_Status,Employment_Status,Annual_Income_or_Allowance,Credit_Score,Loan_Amount,Loan_Term_Months,Loan_Purpose,Account_Balance,Num_Credit_Cards,Transaction_Frequency_Monthly,Overdue_Payments,Branch,Investor,Potential_Investor,Principal,Portfolio_Value,Current_Risk_Profile,Predicted_Suggestive_Risk_Profile
+noninvestor123,CUST1015,Customer 16,23,Female,Widowed,Employed,1184346,810,2150021,60,Mortgage,1687293,3,86,2,Davao,No,Yes,NaN,NaN,NaN,Moderate
+mish2mish,CUST1017,Customer 18,22,Female,Divorced,Self-Employed,2435000,500,668467,36,Education,715998,3,27,3,Makati,No,Yes,NaN,NaN,NaN,Aggressive
+investor123,CUST1022,Customer 23,22,Male,Divorced,Unemployed,699046,648,178391,24,Car Loan,1905050,0,17,NaN,Makati,Yes,already investing,37589,50430,Aggressive,Conservative
+gtasanandre2003,CUST1035,Customer 36,23,Female,Widowed,Unemployed,1696176,443,2987629,36,Mortgage,161196,4,16,4,Quezon City,Yes,already investing,42807,56964,Moderate,Aggressive
+111milkywaydude,CUST1042,Customer 43,24,Female,Widowed,Employed,1731266,459,3822962,12,Personal,1406478,2,82,3,Makati,Yes,already investing,20290,34033,Moderate,Aggressive
+broskieeeee,CUST1047,Customer 48,22,Female,Married,Self-Employed,425281,430,4368427,48,Business,1545548,1,73,2,Quezon City,No,Yes,NaN,NaN,NaN,Conservative
+party4u,CUST1029,Customer 30,19,Male,Single,Unemployed,12000,NaN,NaN,NaN,NaN,7000,0,30,NaN,Cebu City,No,Yes,NaN,NaN,NaN,Moderate
+ana123,CUST1010,Customer 10,20,Female,Single,Unemployed,83012,NaN,NaN,NaN,NaN,10200,0,53,NaN,Dumaguete City,No,Yes,NaN,NaN,NaN,Moderate
+ana456,CUST1010,Customer 10,20,Female,Single,Unemployed,83012,NaN,NaN,NaN,NaN,23020,0,45,NaN,Dumaguete City,Yes,already investing,12000,12456,Moderate,Moderate
+acastro19,CUST1092,Customer 92,19,Female,Single,Part-time Barista,96000,585,25000,12,Tuition,2000,0,6,1,Makati,No,No,NaN,NaN,NaN,NaN
+mrodriguez22,CUST1032,Customer 32,22,Male,Single,Call Center Agent,180000,605,60000,24,Gadget ,5500,1,10,2,Quezon City,No,No,NaN,NaN,NaN,NaN
+lperez24,CUST1053,Customer 53,24,Female,Single,Unemployed,0,560,30000,18,Living Expenses,800,0,4,3,Manila,No,No,NaN,NaN,NaN,NaN
