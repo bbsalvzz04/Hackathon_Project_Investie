@@ -1,12 +1,4 @@
-🚀 Overview
 
-Investie is an AI-powered onboarding assistant built with Streamlit.
-It helps first-time investors gain financial confidence by providing personalized nudges, data-driven insights, and an interactive dashboard.
-
-Perfect 👍 thanks for clarifying! Since your prototype runs on **Streamlit**, the setup is way simpler.
-Here’s a clean **README.md** tailored for judges testing a Streamlit project:
-
----
 
 # 📌 Project Name: *Investie Prototype*
 
@@ -24,7 +16,7 @@ It helps first-time investors gain financial confidence by providing **personali
 * If using **GitHub**:
 
   ```bash
-  git clone https://github.com/your-username/investie-prototype.git
+  git clone https://github.com/bbsalvzz04/Hackathon_Project_Investie.git
   cd investie-prototype
   ```
 * Or, download the `.zip` file and extract it.
@@ -33,6 +25,7 @@ It helps first-time investors gain financial confidence by providing **personali
 
 ```bash
 python -m venv venv
+
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 ```
@@ -61,13 +54,13 @@ Start the Streamlit app with:
 streamlit run main.py
 ```
 
-* App runs locally at: **[http://localhost:8501](http://localhost:8501)**
+* App runs locally *
 
 ---
 
 ## 📊 Demo Data
 
-We included **sample CSVs** in the folder.
+We included **a sample CSV** in the folder.
 The prototype loads these automatically to simulate customer profiles and investment journeys.
 
 ---
