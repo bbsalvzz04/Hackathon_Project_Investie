@@ -17,6 +17,7 @@ df = pd.read_csv("clients2.csv")
 non_investors = df[df["Investor"]=="No"]
 
 
+
 # -------------------- gpt setup ------------------
 load_dotenv()
 class AgentResponse(BaseModel):
