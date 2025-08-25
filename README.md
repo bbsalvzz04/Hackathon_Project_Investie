@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ### 4️⃣ Setup Environment Variables
 
-Create a **`.env` file** in the project root. Example:
+Paste your API key in the **`.env` file** in the project root. Example:
 
 ```
 OPENAI_API_KEY="your_api_key_here"
@@ -58,7 +58,7 @@ OPENAI_API_KEY="your_api_key_here"
 Start the Streamlit app with:
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 * App runs locally at: **[http://localhost:8501](http://localhost:8501)**
